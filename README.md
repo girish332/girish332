@@ -10,10 +10,12 @@
 
 ### :woman_technologist: &nbsp;About Me :
 
-I am a Golang Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+I am a Golang Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India currently studying at Northeastern University.
 
 - 🔭 I’m working as a Software Engineer and contributing to backend and devops for building web applications.
 - ⚡ In my free time I solve problems on GeeksforGeeks and read tech articles.
+- I love open source, currently I am contributing to the following project : https://github.com/siglens/siglens
+- I am always open for collaborating on new projects feel free to reach out to me for anything related to Go
 - 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-girish-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/girish332/)
 
 ---
